@@ -1,1 +1,2 @@
-"# random-password-generator" 
+## C# version of https://passwordsgenerator.net/ with finer grained control over special characters
+![Screenshot](https://github.com/jahatfi/random-password-generator/blob/main/screenshot.jpg?raw=true)
