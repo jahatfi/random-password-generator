@@ -1,2 +1,2 @@
 ## C# version of https://passwordsgenerator.net/ with finer grained control over special characters
-![Screenshot](screenshot.png?raw=true)
+![Screenshot](random-password-generator/blob/main/screenshot.PNG?raw=true)
